@@ -1,6 +1,6 @@
-# responsive_design_flutter
+# Responsive dashboard
 
-A quick responsive boilerplate for flutter
+A quick responsive dashboard boilerplate for flutter
 
 ## Details
 
